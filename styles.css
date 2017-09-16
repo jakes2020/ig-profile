@@ -1,0 +1,18 @@
+body{
+	background-color: white;
+}
+#container{
+	text-align: center;
+	background-color: white;
+	width: 1080px;
+	border-style: 3px #DDDDDD;
+}
+#top-bar{
+	height: 145;
+	background-image: url("top-bar.png");
+	text-align: center;
+}
+#follower-count{
+	height: 355px;
+	background-image: url("follower-count.png");
+}
